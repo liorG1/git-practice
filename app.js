@@ -7,3 +7,4 @@ console.log('GitHub PR Flow Test');
 console.log('Conflict from feature');
 
 // Main branch comment
+console.log('Split demo feature');
