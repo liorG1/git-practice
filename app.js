@@ -6,3 +6,4 @@ console.log('GitHub PR Flow Test');
 
 console.log('Conflict from feature');
 
+console.log('Split demo feature');
